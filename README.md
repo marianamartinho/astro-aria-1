@@ -12,3 +12,6 @@ You can install this theme with the [Astro](https://astro.build) command like so
 npm create astro@latest -- --template ccbikai/astro-aria
 ```
 # astro-aria
+
+Proyecto configurado para despliegue en Vercel.
+
