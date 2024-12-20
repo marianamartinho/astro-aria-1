@@ -13,5 +13,7 @@ npm create astro@latest -- --template ccbikai/astro-aria
 ```
 # astro-aria
 
-Proyecto configurado para despliegue en Vercel.
+
+ "Forzando despliegue desde Vercel" >> README.md
+
 
